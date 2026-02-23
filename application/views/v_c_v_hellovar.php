@@ -9,7 +9,7 @@
 			margin: 10px;
 			border: 1px solid #d0d0d0;
 			background: #333;
-			text: #eaeaea;
+			color: #eaeaea;
 			padding: 5px;
 			-webkit-box-shadow: 0 0 8px #d0d0d0;
 		}
